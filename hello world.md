@@ -11,3 +11,6 @@ hello world!
 ## небольшой заголовок
 
 **и жирный шрифт**
+
+
+![картинка получается](https://phonoteka.org/uploads/posts/2021-06/1624079183_9-phonoteka_org-p-oboi-na-rabochii-stol-gori-krasivo-9.jpg)]
