@@ -14,3 +14,9 @@ hello world!
 
 
 ![картинка получается](https://phonoteka.org/uploads/posts/2021-06/1624079183_9-phonoteka_org-p-oboi-na-rabochii-stol-gori-krasivo-9.jpg)]
+
+[! [стражи галактики 3 новый трейлер](https://www.youtube.com/watch?v=JmZiJI-s_mM)]
+
+| попытки | #1    | #2    |
+| :---:   | :---: | :---: |
+| удача | да   | нет  |
